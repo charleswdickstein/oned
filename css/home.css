@@ -1,0 +1,56 @@
+.wrapper{
+
+}
+
+header{
+	position: fixed;
+	top:0;
+	left: 0;
+	background-color: grey;
+	width: 100%;
+}
+
+nav{
+	margin-top: 10%;
+	padding-left: 60%;
+	width: 100%;
+	
+}
+
+nav ul li{
+	display: inline-block;
+	width: 10%;
+	text-decoration: none;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color:grey;
+	font-family: papyrus;
+	
+}
+
+.me{
+	background-image: url("https://scontent-ord.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/10001370_1404589539812582_1818016768_n.jpg?oh=a2e72f000bb736be6804ae603a93103f&oe=55ACD3AE");
+	
+}
+
+.interests{
+	background-image: url(http://www.theolympiastudio.com/wp-content/uploads/2014/03/guitar-slider.jpg);
+}
+
+.box{
+	margin-left: 15%;
+	width:200px;
+	height:200px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	float: left;
+}
+
+.box h3{
+	text-align: center;
+	color: white;
+}
+
